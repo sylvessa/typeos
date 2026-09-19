@@ -1,0 +1,4 @@
+build/
+*.img
+node_modules/
+tools/bin/

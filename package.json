@@ -1,0 +1,17 @@
+{
+  "name": "typeos",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  },
+  "dependencies": {
+    "@types/is-number": "^7.0.5",
+    "@types/node": "^26.6.2",
+    "is-number": "^7.0.0"
+  }
+}
